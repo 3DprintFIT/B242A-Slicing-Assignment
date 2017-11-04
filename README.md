@@ -6,11 +6,17 @@ který si importujte do Slic3ru.
 
   * [config_bundle](slic3r_config_bundle.ini)
   
-  
-První z modelů je bulbasaur s parametry
+Tiskárnu mějte nastavenou RebeliX a filament ABS Esun 1.75mm z config bundelu.
 
-  * [bulbasaur.stl](bulbasaur.stl)
-  (CC BY-NC-SA 3.0 [FLOWALISTIK](https://www.thingiverse.com/thing:327753))
+
+První z modelů je [bulbasaur.stl](bulbasaur.stl)
+  (CC BY-NC-SA 3.0 [FLOWALISTIK](https://www.thingiverse.com/thing:327753)) s parametry
+
+  * 5 perimetrů vertikálního shellu, 4 plné dolní vrstvy a 3 dolní
+  * Rychlost tisku perimetrů je 45 mm/s
+  * Raft o 3 vrstvách
+  * Infill typu Honeycomb s hustotou 15%
+  * Teplota Bedu je při první vrstvě 79°C
 
 Druhý je držák na tužky Darth Vadera
 
