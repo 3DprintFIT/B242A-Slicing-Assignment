@@ -2,7 +2,8 @@
 
 Vaším dnešním úkolem bude naslicovat několik modelů v aplikaci Slic3r.
 Abyste ale nezačínali s prázdnou máme pro vás jako dárek config bundle,
-který si importujte do Slic3ru.
+který si importujte do Slic3ru. Ve Slic3ru používáme Expert mód.
+File -> Preferences -> Mode
 
   * [config_bundle](slic3r_config_bundle.ini)
   
@@ -18,17 +19,20 @@ První z modelů je [bulbasaur.stl](bulbasaur.stl)
   * Infill typu Honeycomb s hustotou 15%
   * Teplota Bedu je při první vrstvě 79°C
 
-Druhý je držák na tužky Darth Vadera
-
-  * [vader_cup.stl](vader_cup_v03.stl)
+Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   (CC BY-NC 3.0 [tmasantos](https://www.thingiverse.com/thing:1396307))
+  * Výška jedné vrstvy je 35mm z toho první vrstva je 36mm
+  * Rychlost tisku infillu je 50mm/s, perimetry tiskneme s rychlostí 40mm/s
+  * Chceme nechat vygenerovat support
+  * Perimetry nám stačí jen dva
+  * Infill stačí 10% a pattern necháme "Line"
+  * Minimum Loops u skirt změníme na 3
+  * Teplota extruderu na první vrstvu je 228 a na ostatní 323
 
-Na závěr něco praktického a to otvírák na pivo
-
-  * [bottle_opener](bottle_opener.stl) 
+Na závěr něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
 
 Do repozitáře vytvořeného na odkazu ODKAZ
-dejte soubory `bulbasaur.gcode` `vader_cup.gcode` `bottle_opener.gcode`.
+dejte soubory `bulbasaur.gcode`, `vader_cup_v03.gcode`, `bottle_opener.gcode`.
 Doporučujeme si jednotlivé configurace Slic3eru ukládat.
 
