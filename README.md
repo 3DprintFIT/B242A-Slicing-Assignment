@@ -15,7 +15,7 @@ v panelu Preview (dole ve Slic3ru).
 První z modelů je [bulbasaur.stl](bulbasaur.stl)
   (CC BY-NC-SA 3.0 [FLOWALISTIK](https://www.thingiverse.com/thing:327753)) s parametry
 
-  * 5 perimetrů vertikálního shellu, 4 plné dolní vrstvy a 3 dolní
+  * 5 perimetrů vertikálního shellu, 4 plné dolní vrstvy a 3 horní
   * Rychlost tisku perimetrů je 45 mm/s
   * Raft o 3 vrstvách
   * Infill typu Honeycomb s hustotou 15%
