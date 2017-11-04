@@ -31,6 +31,13 @@ Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
 
 Na závěr něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
+  * 30% infill se vzorem 3D Honeycombu
+  * 3mm brim + 2 vrstvy raftu
+  * Infill se tiskne s rychlostí 40mm/s
+  * Zpomalte tisk, pokud je rychlost výtisku jedné vrstvy vytisklý
+  za méně než 15 s
+  * Větráček bude permanentně zaplý s minimální rychlostí 10%
+  * Retrakce o 2mm osy Z, když se přechází na další vrstvu
 
 Do repozitáře vytvořeného na odkazu ODKAZ
 dejte soubory `bulbasaur.gcode`, `vader_cup_v03.gcode`, `bottle_opener.gcode`.
