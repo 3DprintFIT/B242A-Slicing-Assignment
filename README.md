@@ -42,16 +42,48 @@ Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírá
   * Retrakce o 2mm osy Z, když se přechází na další vrstvu
   
 Teď když už máte prozkoušené zadání s přesnými parametry,
-tak si vyzkoušíte i kdyby vás o naslicování poprosil váš nezkušený kamarád.
+tak si vyzkoušíte i varianty bez přesných,
+které by se vám v životě 3D tiskaře mohly hodit.
 
 Chcete tisknout devět kostiček. Všechny s jednou stěnou,
 infill ten co má na sebe kolmé čáry, hustota 10 %,
 výplň rovnoběžná s hranami kostky. Jeden perimetr a po jedné stěně nahoře i dole.
 Vy osobně se bojíte, aby vám kostičky nepopraskaly kvůli průvanu v místnosti,
 takže kolem nich chcete vystavět ochranou bariéru.
-Model kostičky kamarád zvládnul vytvořit - [cube.stl](cube.stl).
+Model kostičky kamarád zvládnul vytvořit.
+
+  * Model: [cube.stl](cube.stl)
 
 ![cube](cube.png)
+
+Na vaší 3D tiskárně RebeliX napraskl díl držící pravý motor.
+Máte k dispozici pouze STL, kde jsou oba držáky motorů vedle sebe,
+a chcete vytisknout pouze jeden. Měl by mít pevnost úměrnou užití, 
+ale potřebujte výtisk co nejrychleji, abyste snížili riziko,
+že díl praskne úplně a vy si už nic nevytisknete. Abyste ušetřili čas,
+nastavte výšku vrstvy maximální možnou tak, aby to tiskárna Rebelix yellow
+zvládla vytisknout bez problému.
+
+  * Model: [z_bottom.stl](z-bottom.stl)
+
+Tip: Při výplni honeycomb můžete k dostatečné pevnosti dílu nastavit 20% výplň,
+kvůli vnější pevnosti ale nastavte 3 perimetry.
+Tiskárna Rebelix yellow má průměr trysky 0,35 mm.
+
+![z-bottom.png](z_bottom.png)
+
+Předvádíte 3D tisk na konferenci okrasních indoor zahradníků se zálibou v matematice
+a rozhodli jste se vytisknout vázu definovanou fraktálem.
+Protože STL soubor je však vytvořen jako plný blok (pro představu si ho prohlédněte),
+musíte vhodným nastavením docílit toho, aby se váza vytiskla dutá, s dírou nahoře.
+(Neupravujte mesh v editoru, výsledku dosáhnete pouze správným nastavením Slic3ru!).
+Protože chcete tisknout rychle, ale vodotěsně,
+rozhodli jste se použít metodu tisku do spirály.
+
+  * Model: [koch_snowflake.stl](koch_snowflake.stl)
+
+![koch_snowflake.png](koch_snowflake.png)
+
 
 
 
