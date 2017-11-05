@@ -106,7 +106,7 @@ rozhodli jste se použít metodu tisku do spirály.
 
 
 
-Do repozitáře vytvořeného na odkazu ODKAZ
+Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/VcRQelSD
 dejte soubory `bulbasaur.gcode`, `vader_cup_v03.gcode`, `bottle_opener.gcode`,
 `cube.gcode`, `z_bottom.gcode` a `koch_snowflake.gcode`.
 Doporučujeme si jednotlivé configurace Slic3eru ukládat.
