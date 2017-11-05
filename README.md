@@ -23,7 +23,7 @@ První z modelů je [bulbasaur.stl](bulbasaur.stl)
 
 Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   (CC BY-NC 3.0 [tmasantos](https://www.thingiverse.com/thing:1396307))
-  * Výška jedné vrstvy je 35mm z toho první vrstva je 36mm
+  * Výška jedné vrstvy je 0.35mm z toho první vrstva je 0.36mm
   * Rychlost tisku infillu je 50mm/s, perimetry tiskneme s rychlostí 40mm/s
   * Chceme nechat vygenerovat support
   * Perimetry nám stačí jen dva
@@ -31,7 +31,7 @@ Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   * Minimum Loops u skirt změníme na 3
   * Teplota extruderu na první vrstvu je 228 a na ostatní 323
 
-Na závěr něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
+Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
   * 30% infill se vzorem 3D Honeycombu
   * 3mm brim + 2 vrstvy raftu
@@ -40,6 +40,20 @@ Na závěr něco praktického a to otvírák na pivo -[bottle_opener](bottle_ope
   za méně než 15 s
   * Větráček bude permanentně zaplý s minimální rychlostí 10%
   * Retrakce o 2mm osy Z, když se přechází na další vrstvu
+  
+Teď když už máte prozkoušené zadání s přesnými parametry,
+tak si vyzkoušíte i kdyby vás o naslicování poprosil váš nezkušený kamarád.
+
+Chcete tisknout devět kostiček. Všechny s jednou stěnou,
+infill ten co má na sebe kolmé čáry, hustota 10 %,
+výplň rovnoběžná s hranami kostky. Jeden perimetr a po jedné stěně nahoře i dole.
+Vy osobně se bojíte, aby vám kostičky nepopraskaly kvůli průvanu v místnosti,
+takže kolem nich chcete vystavět ochranou bariéru.
+Model kostičky kamarád zvládnul vytvořit - [cube.stl](cube.stl).
+
+![cube](cube.png)
+
+
 
 Do repozitáře vytvořeného na odkazu ODKAZ
 dejte soubory `bulbasaur.gcode`, `vader_cup_v03.gcode`, `bottle_opener.gcode`.
