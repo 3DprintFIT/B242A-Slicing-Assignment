@@ -5,7 +5,7 @@ Abyste ale nezačínali s prázdnou máme pro vás jako dárek config bundle,
 který si importujte do Slic3ru. Ve Slic3ru používáme Expert mód.
 File -> Preferences -> Mode.
 
-  * [Stránka Eduxu s config bundelem](https://edux.fit.cvut.cz/courses/BI-3DT/tutorials/slic3r/start#nacitani_konfigurace)
+  * [slic3r_config_bundle.ini](https://github.com/3DprintFIT/BI-3DT/blob/master/configs/printing/slic3r_config_bundle.ini)
   
 Tiskárnu mějte nastavenou RebeliX a filament ABS Esun 1.75mm z config bundelu.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
