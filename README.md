@@ -81,13 +81,13 @@ ale potřebujte výtisk co nejrychleji, abyste snížili riziko,
 nastavte výšku vrstvy maximální možnou tak, aby to tiskárna Rebelix yellow
 zvládla vytisknout bez problému.
 
-  * Model: [z_bottom.stl](z-bottom.stl)
+  * Model: [z_bottom.stl](z_bottom.stl)
 
 Tip: Při výplni honeycomb můžete k dostatečné pevnosti dílu nastavit 20% výplň,
 kvůli vnější pevnosti ale nastavte 3 perimetry.
 Tiskárna Rebelix yellow má průměr trysky 0,35 mm.
 
-![z-bottom.png](z_bottom.png)
+![z_bottom.png](z_bottom.png)
 
 
 ### Fraktálová váza
