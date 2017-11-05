@@ -20,6 +20,8 @@ První z modelů je [bulbasaur.stl](bulbasaur.stl)
   * Raft o 3 vrstvách
   * Infill typu Honeycomb s hustotou 15%
   * Teplota Bedu je při první vrstvě 79°C
+  
+![bulbasaur.png](bulbasaur.png)
 
 Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   (CC BY-NC 3.0 [tmasantos](https://www.thingiverse.com/thing:1396307))
@@ -30,6 +32,8 @@ Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   * Infill stačí 10% a pattern necháme "Line"
   * Minimum Loops u skirt změníme na 3
   * Teplota extruderu na první vrstvu je 228 a na ostatní 323
+  
+![vader_cub_v03.png](vader_cup_v03.png)
 
 Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
@@ -40,6 +44,8 @@ Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírá
   za méně než 15 s
   * Větráček bude permanentně zaplý s minimální rychlostí 10%
   * Retrakce o 2mm osy Z, když se přechází na další vrstvu
+  
+![bottle_opener.png](bottle_opener.png)
   
 Teď když už máte prozkoušené zadání s přesnými parametry,
 tak si vyzkoušíte i varianty bez přesných,
