@@ -11,7 +11,7 @@ Tiskárnu mějte nastavenou RebeliX a filament ABS Esun 1.75mm z config bundelu.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
 v panelu Preview (dole ve Slic3ru).
 
-###Bulbasaur
+### Bulbasaur
 
 První z modelů je [bulbasaur.stl](bulbasaur.stl)
   (CC BY-NC-SA 3.0 [FLOWALISTIK](https://www.thingiverse.com/thing:327753)) s parametry
@@ -24,7 +24,7 @@ První z modelů je [bulbasaur.stl](bulbasaur.stl)
   
 ![bulbasaur.png](bulbasaur.png)
 
-###DarthHolder
+### DarthHolder
 
 Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   (CC BY-NC 3.0 [tmasantos](https://www.thingiverse.com/thing:1396307))
@@ -39,7 +39,7 @@ Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
 ![vader_cub_v03.png](vader_cup_v03.png)
 
 
-###Bottle opener
+### Bottle opener
 
 Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
