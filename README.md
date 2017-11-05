@@ -11,7 +11,7 @@ Tiskárnu mějte nastavenou RebeliX a filament ABS Esun 1.75mm z config bundelu.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
 v panelu Preview (dole ve Slic3ru).
 
-
+ ###Bulbasaur
 První z modelů je [bulbasaur.stl](bulbasaur.stl)
   (CC BY-NC-SA 3.0 [FLOWALISTIK](https://www.thingiverse.com/thing:327753)) s parametry
 
@@ -23,6 +23,7 @@ První z modelů je [bulbasaur.stl](bulbasaur.stl)
   
 ![bulbasaur.png](bulbasaur.png)
 
+###DarthHolder
 Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   (CC BY-NC 3.0 [tmasantos](https://www.thingiverse.com/thing:1396307))
   * Výška jedné vrstvy je 0.35mm z toho první vrstva je 0.36mm
@@ -35,6 +36,8 @@ Druhý je držák na tužky Darth Vadera -[vader_cup_v03.stl](vader_cup_v03.stl)
   
 ![vader_cub_v03.png](vader_cup_v03.png)
 
+
+###Bottle opener
 Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírák na pivo -[bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
   * 30% infill se vzorem 3D Honeycombu
@@ -47,10 +50,12 @@ Nechcete pořád tisknou jen figurky, ale také něco praktického a to otvírá
   
 ![bottle_opener.png](bottle_opener.png)
   
+  
 Teď když už máte prozkoušené zadání s přesnými parametry,
 tak si vyzkoušíte i varianty bez přesných,
 které by se vám v životě 3D tiskaře mohly hodit.
 
+### Kostičky
 Chcete tisknout devět kostiček. Všechny s jednou stěnou,
 infill ten co má na sebe kolmé čáry, hustota 10 %,
 výplň rovnoběžná s hranami kostky. Jeden perimetr a po jedné stěně nahoře i dole.
@@ -62,6 +67,7 @@ Model kostičky kamarád zvládnul vytvořit.
 
 ![cube](cube.png)
 
+### Náhradní díl k tiskárně
 Na vaší 3D tiskárně RebeliX napraskl díl držící pravý motor.
 Máte k dispozici pouze STL, kde jsou oba držáky motorů vedle sebe,
 a chcete vytisknout pouze jeden. Měl by mít pevnost úměrnou užití, 
@@ -78,6 +84,8 @@ Tiskárna Rebelix yellow má průměr trysky 0,35 mm.
 
 ![z-bottom.png](z_bottom.png)
 
+
+### Fraktálová váza
 Předvádíte 3D tisk na konferenci okrasních indoor zahradníků se zálibou v matematice
 a rozhodli jste se vytisknout vázu definovanou fraktálem.
 Protože STL soubor je však vytvořen jako plný blok (pro představu si ho prohlédněte),
