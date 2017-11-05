@@ -30,12 +30,12 @@ První z modelů je [bulbasaur.stl](bulbasaur.stl)
 Druhý je držák na tužky Darth Vadera - [vader_cup_v03.stl](vader_cup_v03.stl)
   (CC BY-NC 3.0 [tmasantos](https://www.thingiverse.com/thing:1396307))
   * Výška jedné vrstvy je 0.35mm z toho první vrstva je 0.36mm
-  * Rychlost tisku infillu je 50mm/s, perimetry tiskneme s rychlostí 40mm/s
+  * Rychlost tisku infillu je 45mm/s, perimetry tiskneme s rychlostí 40mm/s
   * Chceme nechat vygenerovat support
   * Perimetry nám stačí jen dva
   * Infill 10% a pattern necháme "Line"
   * Minimum Loops u skirt změníme na 3
-  * Teplota extruderu na první vrstvu je 228 a na ostatní 223
+  * Teplota extruderu na první vrstvu je 228 a na ostatní 232
   
 ![vader_cub_v03.png](vader_cup_v03.png)
 
