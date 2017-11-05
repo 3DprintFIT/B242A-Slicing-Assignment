@@ -9,7 +9,8 @@ File -> Preferences -> Mode.
   
 Tiskárnu mějte nastavenou RebeliX a filament ABS Esun 1.75mm z config bundelu.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
-v panelu Preview (dole ve Slic3ru).
+v panelu Preview (dole ve Slic3ru). Před každým modelem doporučujeme nastavit
+Slic3r podle config bundelu.
 
 ### Bulbasaur
 
