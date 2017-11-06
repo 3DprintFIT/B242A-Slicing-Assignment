@@ -71,6 +71,8 @@ Vy osobně se bojíte, aby vám kostičky nepopraskaly kvůli průvanu v místno
 takže kolem nich chcete vystavět ochranou bariéru.
 Model jedné kostičky kamarád zvládnul vytvořit.
 
+Kostičkami je zakázáno otáčet, protože kamarád má iracionální strach z kosočtverců.
+
   * Model: [cube.stl](cube.stl)
 
 ![cube](cube.png)
