@@ -64,7 +64,7 @@ které by se vám v životě 3D tiskaře mohly hodit.
 
 ### Kostičky
 
-Kamarád chce vytisknout devět kostiček. Všechny s jednou stěnou,
+Kamarád chce vytisknout devět kostiček. Všechny s tenkou stěnou,
 infill ten co má na sebe kolmé čáry, hustota 10 %,
 výplň rovnoběžná s hranami kostky. Jeden perimetr a po jedné stěně nahoře i dole.
 Vy osobně se bojíte, aby vám kostičky nepopraskaly kvůli průvanu v místnosti,
