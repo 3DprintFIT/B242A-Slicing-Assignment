@@ -74,29 +74,31 @@ Model jedné kostičky kamarád zvládnul vytvořit.
 ![cube](cube.png)
 
 ### Náhradní díl k tiskárně
+
 Na vaší 3D tiskárně RebeliX napraskl díl držící pravý motor.
 Máte k dispozici pouze STL, kde jsou oba držáky motorů vedle sebe,
 a chcete vytisknout pouze jeden. Měl by mít pevnost úměrnou užití, 
 ale potřebujte výtisk co nejrychleji, abyste snížili riziko,
 že díl praskne úplně a vy si už nic nevytisknete. Abyste ušetřili čas,
-nastavte výšku vrstvy maximální možnou tak, aby to tiskárna Rebelix yellow
+nastavte výšku vrstvy maximální možnou tak, aby to vaše tiskárna RebeliX
 zvládla vytisknout bez problému.
 
   * Model: [z_bottom.stl](z_bottom.stl)
 
 Tip: Při výplni honeycomb můžete k dostatečné pevnosti dílu nastavit 20% výplň,
 kvůli vnější pevnosti ale nastavte 3 perimetry.
-Tiskárna Rebelix yellow má průměr trysky 0,35 mm.
+Tiskárna RebeliX má průměr trysky 0,35 mm.
 
 ![z_bottom.png](z_bottom.png)
 
 
 ### Fraktálová váza
-Předvádíte 3D tisk na konferenci okrasních indoor zahradníků se zálibou v matematice
+
+Předvádíte 3D tisk na konferenci okrasných indoor zahradníků se zálibou v matematice
 a rozhodli jste se vytisknout vázu definovanou fraktálem.
 Protože STL soubor je však vytvořen jako plný blok (pro představu si ho prohlédněte),
 musíte vhodným nastavením docílit toho, aby se váza vytiskla dutá, s dírou nahoře.
-(Neupravujte mesh v editoru, výsledku dosáhnete pouze správným nastavením Slic3ru!).
+(Neupravujte mesh v editoru, výsledku dosáhnete pouze správným nastavením Slic3ru!)
 Protože chcete tisknout rychle, ale vodotěsně,
 rozhodli jste se použít metodu tisku do spirály.
 
