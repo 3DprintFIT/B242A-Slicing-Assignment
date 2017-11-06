@@ -50,6 +50,7 @@ a to otvírák na pivo – [bottle_opener](bottle_opener.stl)
   * 3mm brim + 2 vrstvy raftu (prohlédněte si výsledek!)
   * Infill se tiskne s rychlostí 40 mm/s
   * Zpomalte tisk, pokud je doba výtisku jedné vrstvy menší než 15 s
+    * (hint: je to proto, aby **plast** měl čas **vychladnout**)
   * Větráček bude permanentně zaplý s minimální rychlostí 10 %
   * Retrakce o 2 mm osy Z, když se přechází na další vrstvu
   
