@@ -3,15 +3,19 @@
 Vaším dnešním úkolem bude naslicovat několik modelů v aplikaci Slic3r.
 Abyste ale nezačínali s prázdnou, máme pro vás jako config bundle,
 který si importujte do Slic3ru pomocí volby *Load Config Bundle*.
-Ve Slic3ru používáme Expert mód
-(File -> Preferences -> Mode).
 
   * [slic3r_config_bundle.ini](https://github.com/3DprintFIT/BI-3DT/blob/master/configs/printing/slic3r_config_bundle.ini)
-  
+
+
+**Musíte použít Slic3r 1.3.0.** Nepoužívejte starší verzi Slic3ru
+ani různé další varianty Slic3ru (Prusa Edition apod.).
+
 Tiskárnu mějte nastavenou RebeliX a filament ABS ESUN 1.75mm z config bundlu.
+V tisku vycházejte z profilu Normal.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
-v panelu *Preview* (dole ve Slic3ru). Před každým modelem doporučujeme nastavit
-Slic3r podle config bundlu.
+v panelu *Preview* (dole ve Slic3ru).
+
+Před každou dílčí úlohou se **vraťte na výchozí konfiguraci** (například pomocí opětovného *Load Config Bundle*).
 
 ### Bulbasaur
 
