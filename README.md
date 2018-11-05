@@ -47,7 +47,7 @@ Nechcete pořád tisknout jen figurky, ale také něco praktického
 a to otvírák na pivo – [bottle_opener](bottle_opener.stl) 
   (CC BY-SA 3.0 [leemes](https://www.thingiverse.com/thing:132632))
   * 30% infill se vzorem 3D Honeycombu
-  * 3mm brim + 2 vrstvy raftu (prohlédněte si výsledek!)
+  * 3mm brim
   * Infill se tiskne s rychlostí 40 mm/s
   * Zpomalte tisk, pokud je doba výtisku jedné vrstvy menší než 15 s
     * (hint: je to proto, aby **plast** měl čas **vychladnout**)
