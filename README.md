@@ -34,7 +34,7 @@ Druhý je držák na tužky Darth Vadera – [vader_cup_v03.stl](vader_cup_v03.s
   * Rychlost tisku infillu je 45 mm/s, perimetry tiskneme s rychlostí 40 mm/s
   * Chceme nechat vygenerovat support
   * Perimetry nám stačí jen dva
-  * Infill 10% a pattern necháme "Line"
+  * Infill 10% a pattern "Rectilinear"
   * Minimum Loops u skirtu změníme na 3
   * Teplota extruderu na první vrstvu je 228°C a na ostatní 232°C
   
