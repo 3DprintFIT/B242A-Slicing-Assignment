@@ -1,4 +1,4 @@
-# B171A-Slicing-Assignment
+# Slicing Assignment
 
 Vaším dnešním úkolem bude naslicovat několik modelů v aplikaci Slic3r.
 Abyste ale nezačínali s prázdnou, máme pro vás jako config bundle,
@@ -113,7 +113,7 @@ rozhodli jste se použít metodu tisku do spirály.
 
 
 
-Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/VcRQelSD
+Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/XJt_yrHa
 dejte soubory `bulbasaur.gcode`, `vader_cup_v03.gcode`, `bottle_opener.gcode`,
 `cube.gcode`, `z_bottom.gcode` a `koch_snowflake.gcode`.
 Doporučujeme si jednotlivé configurace Slic3eru ukládat.
