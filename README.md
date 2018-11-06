@@ -15,7 +15,7 @@ V tisku vycházejte z profilu Normal.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
 v panelu *Preview* (dole ve Slic3ru).
 
-Před každou dílčí úlohou se **vraťte na výchozí konfiguraci** (například pomocí opětovného *Load Config Bundle*).
+Před každou dílčí úlohou se **vraťte na výchozí konfiguraci**, opětovné *Load Config Bundle*, nebude fungovat tak jak očekáváte, je potřeba buď Slic3r zavřít a znovu otevřít, nebo uložit aktualní změny v změněné konfiguraci pomocí ikony diskety jako nový konfig. A poté používat ten originální, pro další úlohu.
 
 ### Bulbasaur
 
