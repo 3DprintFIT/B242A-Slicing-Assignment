@@ -1,4 +1,4 @@
-# Slicing Assignment
+# Zadání cvičení na Slicing
 
 Vaším dnešním úkolem bude naslicovat několik modelů v aplikaci Slic3r.
 Abyste ale nezačínali s prázdnou, máme pro vás jako config bundle,
@@ -6,14 +6,28 @@ který si importujte do Slic3ru pomocí volby *Load Config Bundle*.
 
   * [slic3r_config_bundle.ini](https://github.com/3DprintFIT/BI-3DT/blob/master/configs/printing/slic3r_config_bundle.ini)
 
+**Repozitář vytvořte na odkazu https://classroom.github.com/a/xq8iUxW9**.  
+Do vašeho vytvořeného repozitáře odevzdáte soubory `bulbasaur.gcode`, 
+`vader_cup_v03.gcode`, `bottle_opener.gcode`,
+`cube.gcode`, `z_bottom.gcode` a `koch_snowflake.gcode`.
+Doporučujeme si jednotlivé configurace Slic3eru ukládat.
+
+## Hodnocení
+
+- Naslicování všech šesti modelů (max. 3 body)
+- Úloha nesplňuje zadání (0 bodů)
 
 **Musíte použít Slic3r 1.3.0.** Nepoužívejte starší verzi Slic3ru
 ani různé další varianty Slic3ru (Prusa Edition apod.).
+
+## Rady
 
 Tiskárnu mějte nastavenou RebeliX a filament ABS ESUN 1.75mm z config bundlu.
 V tisku vycházejte z profilu Normal.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
 v panelu *Preview* (dole ve Slic3ru).
+
+## Modely
 
 Před každou dílčí úlohou se **vraťte na výchozí konfiguraci**, opětovné *Load Config Bundle*, nebude fungovat tak jak očekáváte, je potřeba buď Slic3r zavřít a znovu otevřít, nebo uložit aktualní změny v změněné konfiguraci pomocí ikony diskety jako nový konfig. A poté používat ten originální, pro další úlohu.
 
@@ -113,12 +127,3 @@ rozhodli jste se použít metodu tisku do spirály.
   * Model: [koch_snowflake.stl](koch_snowflake.stl)
 
 ![koch_snowflake.png](koch_snowflake.png)
-
-
-
-
-Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/XJt_yrHa
-dejte soubory `bulbasaur.gcode`, `vader_cup_v03.gcode`, `bottle_opener.gcode`,
-`cube.gcode`, `z_bottom.gcode` a `koch_snowflake.gcode`.
-Doporučujeme si jednotlivé configurace Slic3eru ukládat.
-
