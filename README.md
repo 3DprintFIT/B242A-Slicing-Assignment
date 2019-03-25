@@ -70,7 +70,7 @@ a to otvírák na pivo – [bottle_opener](bottle_opener.stl)
   * Zpomalte tisk, pokud je doba výtisku jedné vrstvy menší než 15 s
     * (hint: je to proto, aby **plast** měl čas **vychladnout**)
   * Větráček bude permanentně zaplý s minimální rychlostí 10 %
-  * Retrakce o 2 mm osy Z, když se přejíždí prázdným místem
+  * Retrakce o 2 mm, když se přejíždí prázdným místem
     * (hint: nastavení retrakce je specifické pro **extruder**)
   
 ![bottle_opener.png](bottle_opener.png)
