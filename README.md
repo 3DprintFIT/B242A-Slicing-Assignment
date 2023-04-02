@@ -7,7 +7,7 @@ Vaším dnešním úkolem bude naslicovat několik modelů v aplikaci Slic3r.
 Abyste ale nezačínali s prázdnou, máme pro vás jako config bundle,
 který si importujte do Slic3ru pomocí volby *Load Config Bundle*.
 
-  * [slic3r_config_bundle.ini](https://github.com/3DprintFIT/BI-3DT/blob/master/configs/slicing-tutorial/slic3r_config_bundle.ini)
+  * [slic3r_config_bundle.ini](https://github.com/3DprintFIT/BI-3DT/blob/master/configs/printing/slic3r_config_bundle.ini)
 
 **Repozitář vytvořte na odkazu https://classroom.github.com/a/XJ2XuH3r.
 Do vašeho vytvořeného repozitáře odevzdáte soubory `bulbasaur.gcode`, 
