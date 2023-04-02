@@ -25,7 +25,7 @@ ani různé další varianty Slic3ru (Prusa Edition apod.).
 
 ## Rady
 
-Tiskárnu mějte nastavenou RebeliX a filament ABS ESUN 1.75mm z config bundlu.
+Tiskárnu mějte nastavenou Hybrix a filament PET z config bundlu.
 V tisku vycházejte z profilu Normal.
 Po jednotlivých vygenerováních gcodu prozkoumejte výstup jednotlivých nastavení
 v panelu *Preview* (dole ve Slic3ru).
@@ -57,7 +57,7 @@ Druhý je držák na tužky Darth Vadera – [vader_cup_v03.stl](vader_cup_v03.s
   * Perimetry nám stačí jen dva
   * Infill 10% a pattern "Rectilinear"
   * Minimum Loops u skirtu změníme na 3
-  * Teplota extruderu na první vrstvu je 228°C a na ostatní 232°C
+  * Teplota extruderu na první vrstvu je 238°C a na ostatní 248°C
   
 ![vader_cub_v03.png](vader_cup_v03.png)
 
@@ -70,7 +70,7 @@ a to otvírák na pivo – [bottle_opener](bottle_opener.stl)
   * 30% infill se vzorem 3D Honeycombu
   * 3mm (exterior) brim
   * Infill se tiskne s rychlostí 40 mm/s
-  * Zpomalte tisk, pokud je doba výtisku jedné vrstvy menší než 15 s
+  * Zpomalte tisk, pokud je doba výtisku jedné vrstvy menší než 20 s
     * (hint: je to proto, aby **plast** měl čas **vychladnout**)
   * Větráček bude permanentně zaplý s minimální rychlostí 10 %
   * Retrakce o 2 mm, když se přejíždí prázdným místem
@@ -112,7 +112,7 @@ zvládla vytisknout bez problému.
 
 Tip: Při výplni honeycomb můžete k dostatečné pevnosti dílu nastavit 20% výplň,
 kvůli vnější pevnosti ale nastavte 3 perimetry.
-Tiskárna RebeliX má průměr trysky 0,35 mm.
+Vaše tiskárna má průměr trysky 0,4 mm, vrstva nemůže být vyšší.
 
 ![z_bottom.png](z_bottom.png)
 
