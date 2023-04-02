@@ -105,7 +105,7 @@ Máte k dispozici pouze STL, kde jsou oba držáky motorů vedle sebe,
 a chcete vytisknout pouze jeden. Měl by mít pevnost úměrnou užití, 
 ale potřebujte výtisk co nejrychleji, abyste snížili riziko,
 že díl praskne úplně a vy si už nic nevytisknete. Abyste ušetřili čas,
-nastavte výšku vrstvy maximální možnou tak, aby to vaše tiskárna RebeliX
+nastavte výšku vrstvy maximální možnou tak, aby to vaše tiskárna
 zvládla vytisknout bez problému.
 
   * Model: [z_bottom.stl](z_bottom.stl)
